@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GetVideoDuration.web.props" />
+</Project>
