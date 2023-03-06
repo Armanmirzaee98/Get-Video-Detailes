@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a5e68d8c-f396-4b55-a1e1-f940ecd143f8": {
+      "ProjectGuid": "a5e68d8c-f396-4b55-a1e1-f940ecd143f8",
+      "DisplayName": "GetVideoDuration.web",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
